@@ -1,6 +1,6 @@
 {
-  "name": "node-web-streams",
-  "version": "0.2.2",
+  "name": "web-streams-node",
+  "version": "0.1.0",
   "description": "WhatWG web streams and conversion utilities for node.js",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,6 @@
     "url": "https://github.com/gwicke/node-web-streams/issues"
   },
   "dependencies": {
-    "is-stream": "^1.1.0",
-    "web-streams-polyfill": "git://github.com/gwicke/web-streams-polyfill#spec_performance_improvements"
+    "is-stream": "^1.1.0"
   }
 }

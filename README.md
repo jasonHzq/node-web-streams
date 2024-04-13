@@ -1,4 +1,7 @@
-# node-web-streams
+# web-streams-node
+
+forked from https://github.com/gwicke/node-web-streams
+
 WhatWG web streams and conversion utilities for node.js
 
 This provides the [WhatWG streams](https://streams.spec.whatwg.org) API for
@@ -8,7 +11,7 @@ performance issues in that implementation.
 
 ## Installation
 ```
-npm install node-web-streams
+npm install web-streams-node
 ```
 
 ## Usage
